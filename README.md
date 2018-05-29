@@ -2239,6 +2239,7 @@ TODO
 
 * [DZone](https://dzone.com)
 * [Reddit](https://www.reddit.com)
+* [Hack News](https://news.ycombinator.com/news)
 
 ## 问答、讨论类社区
 
